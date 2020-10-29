@@ -7,7 +7,7 @@ $ ipfs add -r a
 added QmUkvP2YX7Vmiz6WygSY1qdH36PebZz6deWfjqgRw8vdmp a/test
 added QmSr8zVeVj8ji8LJBiQD6iTRFBTEWKSgD3641LLSASV6eC a
 ```
-接下来可以通过hash直接访问刚才上传的文件夹，https://ipfs.io/ipfs/QmSr8zVeVj8ji8LJBiQD6iTRFBTEWKSgD3641LLSASV6eC，也可以本地用命令行访问：
+接下来可以通过hash直接访问刚才上传的文件夹，https://ipfs.io/ipfs/QmSr8zVeVj8ji8LJBiQD6iTRFBTEWKSgD3641LLSASV6eC ，也可以本地用命令行访问：
 ```shell
 Administrator@WIN-KA5MENO67R5 /home/c/downloads
 $ ipfs ls QmSr8zVeVj8ji8LJBiQD6iTRFBTEWKSgD3641LLSASV6eC
